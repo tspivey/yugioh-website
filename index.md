@@ -1,8 +1,6 @@
-::: {#header}
-# The Game {#the-game .title}
+% YuGiOh Game
 
-##  {#section .author}
-:::
+# The Game
 
 Welcome to a MUD for playing Yu-Gi-Oh.
 
@@ -47,8 +45,3 @@ for help in the Mud and not help to learn the game of yu-gi-oh. Google
 and Youtube have many helpful videos or descriptions on how to play the
 game. learning basic game play is recommended in order to limit
 confusion.
-
-## Game guide
-
-[Read the Yu-Gi-Oh MUD Guide by
-Tensoon](https://forum.audiogames.net/topic/30057/yugioh-mud-guide/).
