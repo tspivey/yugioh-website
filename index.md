@@ -1,7 +1,5 @@
 % YuGiOh Game
 
-# The Game
-
 Welcome to a MUD for playing Yu-Gi-Oh.
 
 ## Introduction
