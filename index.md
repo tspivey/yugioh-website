@@ -4,7 +4,7 @@
 ##  {#section .author}
 :::
 
-Welcome to the MUD for playing Yu-Gi-Oh.
+Welcome to a MUD for playing Yu-Gi-Oh.
 
 ## Introduction
 
