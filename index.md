@@ -44,8 +44,10 @@ confusion.
 
 ## Game guides
 
-[View a list of keys and commands for MUSHclient and the soundpack](keys.html)
-[Read the Yu-Gi-Oh MUD Guide by Tensoon](https://forum.audiogames.net/topic/30057/yugioh-mud-guide/).
+* [View a list of keys and commands for MUSHclient and the soundpack](keys.html)
+* [Read the Yu-Gi-Oh MUD Guide by Tensoon](https://forum.audiogames.net/topic/30057/yugioh-mud-guide/).
+* [Read an explanation of summoning](summoning.html)
+
 
 ## Videos
 * [Video Guide for basic rules in Yu-gi-oh](https://www.youtube.com/watch?v=55gsu3_36Fs)
