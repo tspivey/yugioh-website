@@ -35,14 +35,17 @@ full experience.
 soundpack](https://github.com/Timtam/yugioh-soundpack/archive/master.zip),
 which includes everything you need to get started.
 
-[View a list of keys and commands here](keys.html)
-
 *note: it is recommended to either use Google or Youtube to learn basic
 rules of game play or how to play the game. the guides below are only
 for help in the Mud and not help to learn the game of yu-gi-oh. Google
 and Youtube have many helpful videos or descriptions on how to play the
 game. learning basic game play is recommended in order to limit
 confusion.
+
+## Game guides
+
+[View a list of keys and commands for MUSHclient and the soundpack](keys.html)
+[Read the Yu-Gi-Oh MUD Guide by Tensoon](https://forum.audiogames.net/topic/30057/yugioh-mud-guide/).
 
 ## Videos
 * [Video Guide for basic rules in Yu-gi-oh](https://www.youtube.com/watch?v=55gsu3_36Fs)
