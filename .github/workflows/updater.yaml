@@ -1,4 +1,4 @@
-name: Game Updater
+name: website Updater
 
 on:
   push:
@@ -21,4 +21,4 @@ jobs:
         username: yugioh
         key: ${{ secrets.SSH_KEY }}
         script: |
-          python3 update_website.py
+          ./update-website.sh
