@@ -6,8 +6,8 @@ Welcome to a MUD for playing Yu-Gi-Oh.
 
 Yu-gi-oh is a card game where two players compete against each other in
 a strategic duel. Each duelist uses a unique deck with between 40 and 60
-cards to deplete their opponent\'s 8,000 life points. the first duelist
-to hit 0 will lose. strategies to deplete your opponent\'s life points
+cards to deplete their opponent's 8,000 life points. the first duelist
+to hit 0 will lose. strategies to deplete your opponent's life points
 are entirely up to you. The Yu-gi-oh Mud includes over 12,000 cards and
 is being updated regularly to include new cards. These cards include
 monster cards with unique effects, spell cards to boost your stratigy or
@@ -18,7 +18,7 @@ of experience. you can choose to create your own deck or play with over
 yours and choose to improve it as you gain knowledge and experience.
 Have no experience with yu-gi-oh or never heard of the game? no problem!
 often there are players online that are happy to assist you with
-questions. now, it\'s time to Duel!
+questions. now, it's time to Duel!
 
 ## Connecting
 
@@ -37,7 +37,7 @@ which includes everything you need to get started.
 
 you can find a Key command list and guide below.
 
-\*note: it is recommended to either use Google or Youtube to learn basic
+*note: it is recommended to either use Google or Youtube to learn basic
 rules of game play or how to play the game. the guides below are only
 for help in the Mud and not help to learn the game of yu-gi-oh. Google
 and Youtube have many helpful videos or descriptions on how to play the
